@@ -1,0 +1,20 @@
+NO textures/Grey_Brick.xpm
+SO textures/Grey_Brick.xpm
+WE textures/Grey_Brick.xpm
+EA textures/Grey_Brick.xpm
+
+F 20,120,10
+C 200,120,10
+111111111111111
+1 1     1111111
+1             1
+1       111   1
+1       111   1
+1 1     111   1
+1       111   1
+1       111   1
+1 1     1111 11
+1       111   1
+1       111   1
+1   N   111   1
+111111111111111
